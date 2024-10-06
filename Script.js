@@ -1,5 +1,5 @@
 // Substitua 'SUA_CHAVE_DE_API' pela sua chave de API do ExchangeRate-API
-const apiKey = '/    /4119fffb5171a19371bcc7fe';
+const apiKey = '52e4b86be6ccc7c64f0400ad';
 
 async function convertCurrency() {
     const amount = document.getElementById('amount').value;
